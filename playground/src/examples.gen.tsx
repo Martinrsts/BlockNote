@@ -1150,6 +1150,29 @@
         }
       },
       {
+        "projectSlug": "math-block",
+        "fullSlug": "custom-schema/math-block",
+        "pathFromRoot": "examples/06-custom-schema/06-math-block",
+        "config": {
+          "playground": true,
+          "docs": false,
+          "author": "martinrsts",
+          "tags": [
+            "Blocks",
+            "Custom Schemas"
+          ],
+          "dependencies": {
+            "katex": "^0.16.18",
+            "react-icons": "^5.2.1"
+          } as any
+        },
+        "title": "Math Block",
+        "group": {
+          "pathFromRoot": "examples/06-custom-schema",
+          "slug": "custom-schema"
+        }
+      },
+      {
         "projectSlug": "react-custom-blocks",
         "fullSlug": "custom-schema/react-custom-blocks",
         "pathFromRoot": "examples/06-custom-schema/react-custom-blocks",
